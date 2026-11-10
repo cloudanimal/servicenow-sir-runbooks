@@ -1,0 +1,20 @@
+parent_category,label,value,sequence
+Forensics,BusinessContinuity,business_continuity,10
+Forensics,Compliance,compliance,20
+Forensics,CyberResilience,cyber_resilience,30
+Forensics,DLP,dlp,40
+Forensics,EnhancedMonitoring,enhanced_monitoring,50
+Forensics,FinancialCrimes,financial_crimes,60
+Forensics,Fraud,fraud,70
+Forensics,Geolocation,geolocation,80
+Forensics,HR,hr,90
+Forensics,InsiderRisk,insider_risk,100
+Forensics,InsiderRisk-Escalate,insider_risk_escalate,110
+Forensics,Legal,legal,120
+Forensics,Monitoring-Escalate,monitoring_escalate,130
+Forensics,Regulatory,regulatory,140
+Forensics,SecurityPolicy,security_policy,150
+Threat Intelligence,Threat Hunt,threat_hunt,10
+Threat Intelligence,RFI,rfi,20
+Threat Intelligence,Task,ti_task,30
+Threat Intelligence,File Analysis,file_analysis,40
