@@ -19,8 +19,6 @@ Click by click runbooks for configuring ServiceNow Security Incident Response (S
 | 4 | Verify the subcategories appear only under their parent |
 | 5 | Confirm the update set contents and mark it **Complete** |
 
-The runbook includes worked examples: 15 subcategories under **Forensics** and 4 under **Threat Intelligence**. The names are generic examples, so replace them with your own.
-
 ## Before you start
 
 - **Roles:** you need a role that can manage SIR categories (typically `sn_si.admin`) and one that can create update sets (typically `admin`). Your platform team may use different roles.
